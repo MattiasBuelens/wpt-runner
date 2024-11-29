@@ -36,7 +36,6 @@
     "colors": "^1.4.0",
     "jsdom": "^21.1.1",
     "recursive-readdir": "^2.2.3",
-    "st": "^3.0.0",
     "yargs": "^17.7.1"
   },
   "devDependencies": {
